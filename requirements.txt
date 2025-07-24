@@ -1,5 +1,5 @@
 streamlit
-googletrans
+googletrans==3.0.0
 textblob
 httpx
 httpcore
